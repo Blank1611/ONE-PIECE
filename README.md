@@ -17,3 +17,7 @@ Solve the levels one by one , the deciphered text or the key for that particular
 
 -Password for Stage 3 is the flag from Stage 2:Level 3, only one level in stage in Stage 3.
 
+-Softwares folder contains the softwares which will be needed to solve some of the Levels.
+
+-Clues are given in the Comment section of the archives(rar files).
+
